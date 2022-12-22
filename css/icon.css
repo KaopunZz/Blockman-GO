@@ -1,0 +1,26 @@
+.icon {
+    margin-top: 130px;
+    position: absolute;
+    z-index: 99;
+    left: 200px;
+}
+
+.icon img{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+
+
+.icon2 {
+    position: absolute;
+   right: 180px;
+   top: 100px;
+    z-index: 99;
+}
+
+.icon2 img{
+    width: 430px;
+    height: 400px;
+    display: inline-block;
+}

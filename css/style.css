@@ -1,0 +1,14 @@
+html {
+    background: url('https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/13.jpg')
+}
+body{
+    font-family: 'Fredoka One', cursive;
+}
+h2{
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+.title h2{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}

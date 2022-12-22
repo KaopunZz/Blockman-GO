@@ -1,0 +1,13 @@
+#topBtn{
+    background-color: #ffffff8d;
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    z-index: 99;
+    padding: 15px;
+    border-radius: 8px;
+    border: none;
+}
+#topBtn:hover{
+    background-color: #ffffff;
+}
